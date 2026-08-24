@@ -1,1 +1,16 @@
+# Exemplos e Referências
 
+Esta pasta contém exemplos de implementação para cada etapa do desafio.
+
+
+| Etapa | Descrição | Exemplo Prático de Implementação (Carioca Náutica) |
+|---|---|---|
+| **Documentação** | Como definir o caso de uso e arquitetura | **Exemplo:** Focar em um problema real (gargalo de atendimento). A arquitetura define que a IA atuará como primeira linha de contato via chat, consultando os arquivos de gestão antes de acionar a equipe operacional. |
+| **Base de Conhecimento** | Como usar os dados mockados | **Exemplo:** Criar arquivos como `tabela_servicos.json` e `ordens_servico.csv` com dados falsos mas realistas do setor náutico, para simular o banco de dados e o CRM da empresa. |
+| **Prompts** | Como criar prompts eficazes | **Exemplo:** Estabelecer limites claros no *System Prompt*. Exemplo de regra: "Aja como um atendente náutico. Nunca invente prazos de manutenção; se a resposta não estiver no arquivo CSV, peça para o cliente aguardar um técnico." |
+| **Aplicação** | Como criar o chatbot funcional | **Exemplo:** Utilizar o código base com a biblioteca **Streamlit** (pasta `src/`) para gerar uma interface visual de chat onde o usuário pode digitar as perguntas. |
+| **Métricas** | Como avaliar seu agente | **Exemplo:** Testar o bot com perguntas sobre serviços que a marina não oferece para verificar se ele recusa responder (avaliando a taxa anti-alucinação) e medir a clareza da resposta. |
+| **Pitch** | Como apresentar sua solução | **Exemplo:** Estruturar a apresentação destacando o tempo que a equipe operacional ganha ao não precisar responder mensagens rotineiras no WhatsApp. |
+
+## Exemplo de Implementação Simples
+Confira na pasta `src/` um exemplo básico de estrutura de aplicação usando Streamlit.
