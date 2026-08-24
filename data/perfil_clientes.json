@@ -1,0 +1,26 @@
+[
+  {
+    "cliente_id": "C001",
+    "nome": "Carlos Eduardo",
+    "embarcacao_modelo": "Focker 240",
+    "planta_cadastrada_kapazi": true,
+    "preferencia": "Prioriza conforto para a família e quer um piso que não esquente ao sol.",
+    "status_crm": "Cliente VIP"
+  },
+  {
+    "cliente_id": "C002",
+    "nome": "Roberto Assis",
+    "embarcacao_modelo": "Lancha Phantom 303",
+    "planta_cadastrada_kapazi": true,
+    "preferencia": "Busca durabilidade máxima para o convés externo e visual clássico amadeirado.",
+    "status_crm": "Orçamento em aberto"
+  },
+  {
+    "cliente_id": "C003",
+    "nome": "Mariana Costa",
+    "embarcacao_modelo": "Lancha Customizada 19 pés",
+    "planta_cadastrada_kapazi": false,
+    "preferencia": "Quer estampar o logotipo da empresa no piso da lancha.",
+    "status_crm": "Aguardando envio do molde"
+  }
+]
