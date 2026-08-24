@@ -1,0 +1,4 @@
+data_interacao,cliente_id,motivo_contato,resumo_atendimento,proximo_passo
+2026-08-20,C001,Dúvida térmica,Cliente perguntou se EVA esquenta. Explicado sobre o alto isolamento térmico da linha Soft Tech Premium.,Enviar orçamento final
+2026-08-21,C002,Durabilidade PVC,Cliente ligou sobre a vida útil do Thermo Deck. Informada a estimativa de 10 a 15 anos e facilidade de revitalizar com lixa.,Aguardar aprovação
+2026-08-22,C003,Barco fora do catálogo,Informado que o barco dela não tem planta cadastrada. Acionada equipe para providenciar molde sob medida para impressão do Kap Boat.,Agendar retirada do molde
