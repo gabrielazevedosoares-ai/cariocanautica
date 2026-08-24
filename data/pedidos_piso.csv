@@ -1,0 +1,4 @@
+id_pedido,cliente_id,data_pedido,produto_escolhido,cor_escolhida,status_producao,previsao_instalacao
+PED-101,C001,2026-08-21,Soft Tech Premium (EVA),Madeira/Preto,Em Produção na Fábrica,2026-08-28
+PED-102,C002,2026-08-15,Thermo Deck Classic (PVC),Teca Clara,Aguardando Liberação Financeira,A Confirmar
+PED-103,C003,2026-08-23,Kap Boat (4K),Personalizado Logo,Aguardando Retirada de Molde,A Confirmar
