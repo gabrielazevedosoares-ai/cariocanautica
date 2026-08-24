@@ -32,7 +32,6 @@ Profissional, prestativo e acessível. Utiliza termos técnicos do setor náutic
 ---
 
 ## Arquitetura
-
 ### Diagrama
 
 ```mermaid
@@ -43,6 +42,3 @@ flowchart TD
     D --> C
     C --> E[Validação]
     E --> F[Resposta]
-
-
-ComponentesComponenteDescriçãoInterfaceChatbot interativo em StreamlitLLMModelo Generativo via APIBase de ConhecimentoArquivos JSON/CSV com ordens de serviço e CRM de clientesValidaçãoChecagem estrita de alucinações via system promptSegurança e Anti-AlucinaçãoEstratégias Adotadas[x] O agente só responde com base nos dados fornecidos na base de conhecimento.[x] Respostas incluem o status exato registrado no sistema operacional.[x] Quando não sabe uma resposta técnica, admite e redireciona para atendimento humano.[x] Não aprova orçamentos ou aplica descontos por conta própria.Limitações DeclaradasNão realiza diagnósticos técnicos ou mecânicos de forma remota.Não altera prazos de entrega ou cria novas ordens de serviço, apenas consulta o sistema.Não inventa preços para peças ou serviços que não estejam na tabela vigente.
