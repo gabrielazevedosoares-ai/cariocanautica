@@ -1,0 +1,34 @@
+[
+  {
+    "id": "piso_01",
+    "linha": "EVA Soft Tech",
+    "versoes": ["Premium", "Slim"],
+    "beneficios": ["Alto isolamento térmico (não esquenta no sol)", "Máximo conforto e maciez para circular descalço", "Material extremamente leve", "Impermeável", "Não absorve líquidos ou sujeiras", "Não propaga chamas"],
+    "indicacao": "Embarcações de luxo e clientes que priorizam conforto térmico e tátil.",
+    "manutencao_recomendada": "Limpeza com água e sabão neutro. Não usar lavadora de alta pressão."
+  },
+  {
+    "id": "piso_02",
+    "linha": "Thermo Deck (PVC)",
+    "versoes": ["Comfort", "Beach", "Classic"],
+    "beneficios": ["Alta durabilidade (10 a 15 anos)", "Visual de teca sintética", "Esquenta menos que a madeira natural", "Não mancha", "Pode ser revitalizado com lixa fina"],
+    "indicacao": "Convés externo e clientes que buscam máxima resistência. Tons mais claros são recomendados para dias de sol forte.",
+    "manutencao_recomendada": "Limpeza com água e sabão neutro. Não usar lavadora de alta pressão."
+  },
+  {
+    "id": "piso_03",
+    "linha": "Kap Boat",
+    "versoes": ["Impressão 4K"],
+    "beneficios": ["100% em PVC", "Proteção UV", "Permite estampar qualquer imagem ou textura em alta definição"],
+    "indicacao": "Clientes que buscam personalização visual exclusiva do convés.",
+    "manutencao_recomendada": "Limpeza com água e sabão neutro."
+  },
+  {
+    "id": "piso_04",
+    "linha": "Tapetes Vinílicos e Trançados",
+    "versoes": ["Vinil Kap", "Carpete Trançado"],
+    "beneficios": ["PVC flexível", "Propriedades térmicas", "Confortáveis ao toque", "Recicláveis", "Não absorvem água", "Não propagam fogo"],
+    "indicacao": "Personalização versátil para áreas internas e externas.",
+    "manutencao_recomendada": "Limpeza com água e sabão neutro."
+  }
+]
